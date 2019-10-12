@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Gerund-and-Infinitive/static/css/main.70256f86.chunk.css",
+    "main.js": "/Gerund-and-Infinitive/static/js/main.735039f3.chunk.js",
+    "main.js.map": "/Gerund-and-Infinitive/static/js/main.735039f3.chunk.js.map",
+    "runtime-main.js": "/Gerund-and-Infinitive/static/js/runtime-main.2013398b.js",
+    "runtime-main.js.map": "/Gerund-and-Infinitive/static/js/runtime-main.2013398b.js.map",
+    "static/css/2.802837ff.chunk.css": "/Gerund-and-Infinitive/static/css/2.802837ff.chunk.css",
+    "static/js/2.37bcfff4.chunk.js": "/Gerund-and-Infinitive/static/js/2.37bcfff4.chunk.js",
+    "static/js/2.37bcfff4.chunk.js.map": "/Gerund-and-Infinitive/static/js/2.37bcfff4.chunk.js.map",
+    "index.html": "/Gerund-and-Infinitive/index.html",
+    "precache-manifest.bc1f0f459422ec912159713449db1f8d.js": "/Gerund-and-Infinitive/precache-manifest.bc1f0f459422ec912159713449db1f8d.js",
+    "service-worker.js": "/Gerund-and-Infinitive/service-worker.js",
+    "static/css/2.802837ff.chunk.css.map": "/Gerund-and-Infinitive/static/css/2.802837ff.chunk.css.map",
+    "static/css/main.70256f86.chunk.css.map": "/Gerund-and-Infinitive/static/css/main.70256f86.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2013398b.js",
+    "static/css/2.802837ff.chunk.css",
+    "static/js/2.37bcfff4.chunk.js",
+    "static/css/main.70256f86.chunk.css",
+    "static/js/main.735039f3.chunk.js"
+  ]
+}
